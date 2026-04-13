@@ -1,0 +1,5 @@
+{
+  "name": "Initiative Engine",
+  "description": "A behavioral scaffolding PWA for couples to build discipline and agency.",
+  "requestFramePermissions": ["microphone"]
+}

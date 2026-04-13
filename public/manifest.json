@@ -1,0 +1,20 @@
+{
+  "name": "Initiative Engine",
+  "short_name": "Initiative",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/09090b/ffffff?text=IE",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/09090b/ffffff?text=IE",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
